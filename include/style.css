@@ -1,0 +1,412 @@
+.chamber{
+	
+	margin:20px;
+	
+}
+
+.charity-btn {
+	
+	margin:20px;
+	
+}
+
+
+.form-horizontal{
+	
+margin:20px;
+	
+}
+
+#tablestyle {
+	
+  margin: auto;
+  font-family: arial;
+  border-collapse: collapse;
+  width:70%;
+ 
+}
+
+
+
+#tablestyle th {
+	
+	
+	background-color:white;
+	padding:2px 2px 2px 2px;
+	height:90px;
+	text-align:center;
+	font-weight:bold;
+	font-size:20px;
+	
+	
+}
+
+
+#tablestyle td {
+
+	background-color:white;
+	padding:2px 2px 2px 2px;
+	
+	
+}
+
+#tablestyle2 {
+	
+  margin: auto;
+  font-family: arial;
+  border-collapse: collapse;
+
+}
+
+
+
+#tablestyle2 th {
+	
+	
+	background-color:white;
+	padding:2px 2px 2px 2px;
+	height:90px;
+	text-align:center;
+	font-weight:bold;
+	font-size:15px;
+	
+	
+}
+
+
+#tablestyle2 td {
+
+	background-color:white;
+	padding:2px 2px 2px 2px;
+	
+	
+}
+
+
+.description {
+	
+	width:auto%;
+	text-align:left;
+	
+
+	
+}
+
+.equal {
+	
+	width:8%;
+
+	
+}
+
+.charity-th{
+	
+	background-color:#afdcea !important;
+	
+	
+}
+
+.key-th{
+	
+	background-color:#00a5c6 !important;
+	
+}
+
+.core-th{
+	
+	background-color:#00a291 !important;
+	
+}
+
+.prime-th{
+	
+	background-color:#fecd50 !important;
+	
+}
+
+
+.greentick {
+	
+	color: green !important;
+	
+	
+}
+
+.redcross {
+	
+	color: red !important;
+	
+	
+}
+
+.unsure {
+	
+	color: orange !important;
+	
+	
+}
+
+
+.supportname{
+	
+	
+	font-size:13px;
+	color:black;
+	
+}
+
+
+
+.info{
+	
+display:block;
+float:right;
+text-align:center;
+margin-left:2px;
+min-width:20px !important;
+width:20px !important;	
+border-radius:20px;
+color:white !important;	
+background-color:black !important;	
+	
+}
+
+.info:hover {
+	
+cursor: pointer;
+	
+}
+
+.selector {
+	
+	font-size:20px;
+	
+}
+
+
+
+.choice-ticket:hover {
+	
+cursor: pointer;
+	
+}
+
+.resetticket:hover {
+	
+cursor: pointer;
+color:red;
+	
+}
+
+.choice-ticket {
+	
+	font-size:20px;
+	font-weight:bold;
+	
+}
+
+.tdtext {
+	
+	font-size:15px;
+	
+}
+
+
+.selector:hover {
+	
+cursor: pointer !important;
+	
+}
+
+.pannel-text{
+	
+	font-size:30px;
+	height:50px;
+	
+}
+
+.textelement {
+	
+position:relative;
+float:left;
+margin-right:20px;	
+	
+}
+
+
+.charity-header {
+
+position:relative;
+background-color:#afdcea !important;
+height:100%;
+width:110px;
+padding:2px;
+float:left;	
+	
+}
+
+.charity-header-value {
+	
+position:relative;
+background-color:#afdcea !important;
+height:100%;
+width:50px;
+border-radius:50px;
+padding:2px;
+text-align:center;
+float:left;
+	
+	
+}
+
+.key-header {
+	
+position:relative;
+background-color:#00a5c6 !important;
+height:100%;
+width:110px;
+padding:2px;
+float:left;
+	
+	
+}
+
+
+.key-header-value {
+	
+position:relative;
+background-color:#00a5c6 !important;
+height:100%;
+width:50px;
+border-radius:50px;
+padding:2px;
+text-align:center;
+float:left;
+	
+	
+}
+
+.core-header {
+
+position:relative;	
+background-color:#00a291 !important;
+height:100%;
+width:110px;
+padding:2px;
+float:left;
+	
+	
+}
+
+.core-header-value {
+	
+position:relative;
+background-color:#00a291 !important;
+height:100%;
+width:50px;
+border-radius:50px;
+padding:2px;
+text-align:center;
+float:left;
+	
+	
+}
+
+
+.prime-header {
+
+position:relative;	
+background-color:#fecd50 !important;
+height:100%;
+width:110px;
+padding:2px;
+float:left;
+	
+	
+}
+
+.prime-header-value {
+	
+position:relative;
+background-color:#fecd50 !important;
+height:100%;
+width:50px;
+border-radius:50px;
+padding:2px;
+text-align:center;
+float:left;
+	
+	
+}
+
+.membershipcost{
+	
+	display:block;
+	height:auto;	
+	width:60px;
+	background-color:#223a4d;
+	border-radius:5px;
+	margin:auto;
+	font-size:12px;
+	color:white;
+	padding:2px;
+	
+	
+	
+}
+
+.membership-selector{
+	
+	
+	min-width:80px;
+	
+	
+}
+
+.greentick-circle{
+	
+display:block;
+text-align:center;
+min-width:10px !important;
+width:17px;
+height:17px;
+border-radius:15px;
+color:white !important;	
+background-color:green !important;	
+font-size:10px;
+padding-top:1px;
+	
+}
+
+.unsure-circle{
+	
+display:block;
+text-align:center;
+min-width:10px !important;
+width:17px;
+height:17px;
+border-radius:15px;
+color:white !important;	
+background-color:orange !important;	
+font-size:10px;
+padding-top:1px;
+	
+}
+
+
+
+.redcross-circle{
+	
+display:block;
+text-align:center;
+min-width:10px !important;
+width:17px;
+height:17px;
+border-radius:15px;
+color:white !important;	
+background-color:red !important;	
+font-size:10px;
+padding-top:1px;
+	
+}
+
